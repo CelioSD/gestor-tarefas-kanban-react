@@ -1,5 +1,11 @@
 # Gestão de Tarefas — React + TypeScript + Vite
 
+Aplicação web de gestão de tarefas  desenvolvida com React e TypeScript, utilizando Vite como ferramenta de desnvolvimento e compilação.
+
+O proeto permite organbizar tarefas e acompanhar o seu estado através de uma interface de gestão de tarefas.
+
+## Tecnologias
+
 
 
 
