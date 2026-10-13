@@ -52,6 +52,9 @@ npm run build
 npm run preview
 
 ## Estrutura do projeto
+## 🗂️ Estrutura do projeto
+
+```text
 versao-react/
 ├── public/
 ├── src/
@@ -67,8 +70,13 @@ versao-react/
 │   └── main.tsx
 ├── index.html
 ├── package.json
+├── package-lock.json
+├── tsconfig.app.json
 ├── tsconfig.json
-└── vite.config.ts
+├── tsconfig.node.json
+├── vite.config.ts
+└── eslint.config.js
+```
 
 ## Objetivo do projeto
 Consolidar conhecimentos de React e TypeScript através da construção de uma aplicação prática, com componentes reutilizáveis, organização de código e gestão de estado.
